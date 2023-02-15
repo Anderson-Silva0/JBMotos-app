@@ -1,0 +1,57 @@
+.navbar {
+    background-color: rgb(10, 25, 60);
+}
+
+.link {
+    color: rgb(235, 235, 5);
+    margin-right: 25px;
+}
+
+.me-auto {
+    justify-content: center;
+}
+
+.me-auto :hover {
+    color: rgb(200, 20, 30);
+    transition: .8s;
+}
+
+.nav-brand {
+    background-image: url("../images/LogoJB.png");
+    width: 120px;
+    height: 115px;
+}
+
+#basic-nav-dropdown {
+    color: rgb(235, 235, 5);
+}
+
+/* 
+.navbar {
+    background-color: rgb(10, 25, 60);
+    color: rgb(235, 235, 5);
+    font-size: 15pt;
+    font-weight: bolder;
+}
+
+.brand {
+    background-image: url("../images/LogoJB.png");
+    width: 120px;
+    height: 115px;
+    margin-left: 10px;
+}
+
+.link {
+    color: rgb(235, 235, 5);
+    margin-right: 25px;
+}
+
+.me-auto {
+    text-align: center;
+    margin-left: 100px;
+}
+
+.me-auto :hover {
+    color: rgb(200, 20, 30);
+    transition: .8s;
+} */
