@@ -3,6 +3,6 @@ export interface Cliente {
     nome: string,
     email: string,
     telefone: string,
-    endereco: number | null,
-    erroAoSalvarCliente: boolean
+    endereco: number | string,
+    erroAoSalvarCliente: boolean 
 }
